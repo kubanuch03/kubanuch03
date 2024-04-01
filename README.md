@@ -42,7 +42,7 @@ Github: https://github.com/kubanuch03/shop_quen <br>
 	Работа над первым своим заказом horse-travel. Туристический сайт, в котором были созданы Галерея (Что бы показывать местные картинки и горы), Карта в Бд хранилось лишь геолокация, а фронтендер уже показывал карту. Админка сделана на стороне backend Jazmin.  Добавлены отзывы только зарегистрированные пользователи могут писать комментарии. Развертывание на Docker и задеплоен в сервере hosting.kg.  <br>Сайт: https://horse-travel.com/ backend-swagger: https://back.horse-travel.com/api/swagger/ <br>
 <hr>
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   <a href="https://github.com/kubanuch03">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=kubanuch03&color=DE002D">
    </a>
 </div>
