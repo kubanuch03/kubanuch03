@@ -13,7 +13,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    <a href="https://www.linkedin.com/in/кубанычбек-алтынбек-уулу-6b33b125a/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+   <a href="https://t.me/joinchat/kuba2003">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
