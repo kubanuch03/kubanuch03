@@ -19,26 +19,19 @@ Python backend
    📫 How to reach me: <a href='mailto:zazaka71@gmail.com'>zazaka71@gmail.com</a>
 </p>
 
-
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
-
-## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
-
-### My opensource projects
-
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+Алтынбек уулу Кубанычбек
+Контакты: 
+    •Телефон: +996(776)27-10-03, +996(557)67-80-10
+    •Gmail: zazaka71@gmail.com 
+    •GitHub: github.com/kubanuch03 
+HARD SKILLS:
+Python, Django, Django Rest Framework, PostgreSQL, SQLite, Windows, Linux, Git, GitHub, Docker, Docker-compose, SMTP, Redis, Digital Ocean, AWS, Nginx, HTML, CSS, Trello, Notion.so,
+Университет: МУКР 3 курс 
+Опыт работы: 
+Работа над реальным проектом aitim-trading, в котором делали с командой и коммуникация с фронтенд частью. В проекте бэкенд часть тимлидом был я и всю руководством занимался я. Писали на Фреймворке DRF. Для Регистрации и подтверждением почты использовал SMTP и JWT токен, настроил CORS что бы frontend мог подключиться к нашим эндпойнтам. Разработали так же свою админку на фронте, прописывали permissions для эндпойнтов. Пользователь после того как оплатил курс админ создает логин и почту и отправляет его на почту пользователя и через Celery написали task что бы после того как пройдет год у него было авто удаление аккаунта. Хранили на базе данных PostgreSQL и Redis. После оплаты курса у пользователя открывается возможность просматривать курсы, просмотр блог и новостей которое сделали с помощью generics и viewsets. После завершения проекта Развертывание было на Docker в сервере AWS там заказчик купил хостинг и домен. Развертывание и подключение домена занимался я. Так же подключили SSL сертификат на Let’s Encrypt. А также подключение Nginx. Для документации использовалось drf_yasg                                                                                                                                                      Github: https://github.com/kubanuch03/humble-trade
+Работа над проектом Booster-School разработал проект для booster-school. Фреймворк на DRF. База данных PostgreSQL. Использовав CRUD сделали курсы новости. Так же развертывание на Docker. Админскую часть сделали на Jazmin. Но в данное время ждем домен от заказчика и сервер                      Github: https://github.com/kubanuch03/Booster_mega
+	Работа над проектом Shop Quen работали с командой в проекте участвовали frontend, design, тестировщики.  Регистрация, Авторизация, Забыли Пароль и т.д. на SMTP и JWT токен. Сайт Маркетплейс одежды. Включает в себя: избранное CRUD, корзина Redis временное хранение. Все это хранилось в PostgreSQL. Прописывали permissions в views.py для админки, админскую часть была фронте я лишь предоставлял им апишки. Добавлено Nginx, а развертывание было на Docker. Сервер и домен ждем от заказчика.                                                        Github: https://github.com/kubanuch03/shop_quen
+	Работа над первым своим заказом horse-travel. Туристический сайт, в котором были созданы Галерея (Что бы показывать местные картинки и горы), Карта в Бд хранилось лишь геолокация, а фронтендер уже показывал карту. Админка сделана на стороне backend Jazmin.  Добавлены отзывы только зарегистрированные пользователи могут писать комментарии. Развертывание на Docker и задеплоен в сервере hosting.kg. Сайт: https://horse-travel.com/ backend-swagger: https://back.horse-travel.com/api/swagger/
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
