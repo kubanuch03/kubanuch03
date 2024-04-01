@@ -25,7 +25,9 @@ Python backend
     •Gmail: zazaka71@gmail.com  <br>
     •GitHub: github.com/kubanuch03  <br>
 HARD SKILLS: <br>
-Python, Django, Django Rest Framework, PostgreSQL, SQLite, Windows, Linux, Git, GitHub, Docker, Docker-compose, SMTP, Redis, Digital Ocean, AWS, Nginx, HTML, CSS, Trello, Notion.so, <br>
+
+<b> Python, Django, Django Rest Framework, PostgreSQL, SQLite, Windows, Linux, Git, GitHub, Docker, Docker-compose, SMTP, Redis, Digital Ocean, AWS, Nginx, HTML, CSS, Trello, Notion.so,<b> <br>
+
 Университет: МУКР 3 курс  <br>
 Опыт работы:  <br>
 
