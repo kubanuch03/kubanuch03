@@ -1,5 +1,4 @@
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Python backend
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
@@ -13,11 +12,11 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    <a href="https://www.linkedin.com/in/кубанычбек-алтынбек-уулу-6b33b125a/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/kuba2003">
+   <a href="https://t.me/kuba2003">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:zazaka71@gmail.com'>zazaka71@gmail.com</a>
 </p>
 
 
