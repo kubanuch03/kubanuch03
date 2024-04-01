@@ -10,7 +10,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <a href="https://www.linkedin.com/in/кубанычбек-алтынбек-уулу-6b33b125a/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
