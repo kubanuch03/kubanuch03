@@ -15,7 +15,7 @@ Python
 Алтынбек уулу Кубанычбек <br>
 Контакты: <br>
     •Телефон: +996(776)27-10-03, +996(557)67-80-10 <br>
-    •Gmail: zazaka71@gmail.com  <br>
+    <!--- •Gmail: zazaka71@gmail.com  <br> --->
     •GitHub: github.com/kubanuch03  <br>
 HARD SKILLS: <br>
 
