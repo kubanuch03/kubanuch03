@@ -42,8 +42,4 @@ Github: https://github.com/kubanuch03/shop_quen-prod <br>
 backend-swagger: https://back.horse-travel.com/api/swagger <br>
 Github: https://github.com/kubanuch03/horse-travel-prod  <br>
 <hr>
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/kubanuch03">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=kubanuch03&color=DE002D">
-   </a>
-</div>
+
