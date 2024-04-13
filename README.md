@@ -8,6 +8,11 @@ Python Backend
    <a href="https://t.me/kuba2003">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+	
+   <a href="https://api.whatsapp.com/send?phone=+996776271003">
+   	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+   </a>
+	
 <p align='center'>
    📫 How to reach me: <a href='mailto:zazaka71@gmail.com'>zazaka71@gmail.com</a>
 </p>
