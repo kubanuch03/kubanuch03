@@ -40,12 +40,12 @@ Github: https://github.com/kubanuch03/aitim-trade-prod <br>
 Github: https://github.com/kubanuch03/booster_mega-prod <br>
 <hr>
 	Работа над проектом Shop Quen работали с командой в проекте участвовали frontend, design, тестировщики.  Регистрация, Авторизация, Забыли Пароль и т.д. на SMTP и JWT токен. Сайт Маркетплейс одежды. Включает в себя: избранное CRUD, корзина Redis временное хранение. Все это хранилось в PostgreSQL. Прописывали permissions в views.py для админки, админскую часть была фронте я лишь предоставлял им апишки. Добавлено Nginx, а развертывание было на Docker. Сервер и домен ждем от заказчика.   <br> 
-
+site: https://queen-shops.com <br>
 Github: https://github.com/kubanuch03/shop_quen-prod <br>
 <hr>
 	Работа над первым своим заказом horse-travel. Туристический сайт, в котором были созданы Галерея (Что бы показывать местные картинки и горы), Карта в Бд хранилось лишь геолокация, а фронтендер уже показывал карту. Админка сделана на стороне backend Jazmin.  Добавлены отзывы только зарегистрированные пользователи могут писать комментарии. Развертывание на Docker и задеплоен в сервере hosting.kg.  <br>
 Сайт: https://horse-travel.com  <br>
-site: https://queen-shops.com <br>
+
 Github: https://github.com/kubanuch03/horse-travel-prod  <br>
 <hr>
 
